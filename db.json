@@ -1,0 +1,19 @@
+{
+	"data": {
+		"stageVersions": [{
+			"appId": "ffe3d2eb-a2da-44f1-89b6-541bb5818984",
+			"appName": "First Microservice",
+			"versions": [{
+				"versionName": "2",
+				"versionId": "62aead60e01f5800189da26b"
+			}, {
+				"versionName": "1",
+				"versionId": "62ad779be01f5800189da25b"
+			}]
+		}, {
+			"appId": "9803fc68-4640-4f07-a1bd-7685f922bc46",
+			"appName": "Second Microservice",
+			"versions": []
+		}]
+	}
+}
